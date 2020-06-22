@@ -1,0 +1,66 @@
+*{margin: 0;padding: 0}
+ul,li{
+  list-style: none;
+}
+#app{
+  /* background: url('../images/bg.jpg') no-repeat; */
+  background-size: cover;
+}
+.fontColor{
+  color: hsla(0,0%,100%,.8);
+}
+.bgColor{
+  background: rgba(0,0,0,.3);
+  box-shadow: 0 0 8px #006e96;
+}
+
+.bgHove:hover {
+  background: linear-gradient(180deg,#1c2939,#081525,#081525,#1c2939)
+}
+.activeBg{
+  background: #006e96!important;
+}
+.navHove:hover{
+  background-color: #04334A;
+  cursor: pointer;
+}
+.pt20{
+  padding-top: 20px;
+}
+
+.mt10{
+  margin-top: 10px;
+}
+.mt15{
+  margin-top: 15px;
+}
+.mt20{
+  margin-top: 20px;
+}
+.mt25{
+  margin-top: 25px;
+}
+.mt30{
+  margin-top: 30px;
+}
+.mt35{
+  margin-top: 35px;
+}
+.mb10{
+  margin-bottom: 10px;
+}
+.mb15{
+  margin-bottom: 15px;
+}
+.mb20{
+  margin-bottom: 20px;
+}
+.mb25{
+  margin-bottom: 25px;
+}
+.mb30{
+  margin-bottom: 30px;
+}
+.mb35{
+  margin-bottom: 35px;
+}
